@@ -1,0 +1,4 @@
+ko,한국어
+es_ES,Español
+it_IT,Italiano
+ja,日本語

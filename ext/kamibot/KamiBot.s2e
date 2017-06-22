@@ -1,0 +1,101 @@
+{	"extensionName": "KamiBot",
+	"sort":1,
+	"extensionPort": 0,
+	"firmware":"1.1.10",
+	"javascriptURL":"js/kamibot.js",
+	"blockSpecs": [
+	
+		["w", "move forward %n block","runBlockMove","1",
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.blockMove({0});\n","loop":""}],
+		
+		["w", "turn left","runBlockTurnLeft",
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.blockTurnLeft();\n","loop":""}],
+		
+		["w", "turn right","runBlockTurnRight",
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.blockTurnRight();\n","loop":""}],
+		
+		["w", "turn back","runBlockTurnBack",
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.blockTurnBack();\n","loop":""}],
+		
+		["w", "move forward speed %d.pwmvalue","runMoveForward",30,
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.forward({0});\n","loop":""}],
+		
+		["w", "move forward speed Right : %d.pwmvalue Left : %d.pwmvalue","runMoveForwardBalanced",30,30,
+		{"encode":"{d0}{d1}","setup":"","inc":"","def":"","work":"kamibot.forward({0},{1});\n","loop":""}],
+		
+		["w", "move left speed %d.pwmvalue","runMoveLeft",30,
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.left({0});\n","loop":""}],
+		
+		["w", "move right speed %d.pwmvalue","runMoveRight",30,
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.right({0});\n","loop":""}],
+		
+		["w", "move backward speed %d.pwmvalue","runMoveBackward",30,
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.backward({0});\n","loop":""}],
+		
+		["w", "move backward speed Right : %d.pwmvalue Left : %d.pwmvalue","runMoveBackwardBalanced",30,30,
+		{"encode":"{d0}{d1}","setup":"","inc":"","def":"","work":"kamibot.backward({0},{0});\n","loop":""}],
+		
+		["w", "left motor %m.direction speed %d.pwmvalue","runRotateLeftMoter","forward",30,
+		{"encode":"{m0}{d1}","setup":"","inc":"","def":"","work":"kamibot.leftMoterRotation({0},{1});\n","loop":""}],
+		
+		["w", "right motor %m.direction speed %d.pwmvalue","runRotateRightMoter","forward",30,
+		{"encode":"{m0}{d1}","setup":"","inc":"","def":"","work":"kamibot.rightMoterRotation({0},{1});\n","loop":""}],
+		
+		["w", "stop","runStop",
+		{"setup":"","inc":"","def":"","work":"kamibot.kambotStop();\n","loop":""}],
+		
+		["w", "set KamiBot color to %m.colors","setRGbLed","Red",
+		{"encode":"{m0}","setup":"","inc":"","def":"","work":"kamibot.setRgbLed({0});\n","loop":""}],
+		
+		["w", "set servo motor to %d.servovalue °","runServo",0,
+		{"encode":"{d0}","setup":"\nkamBotServo.attach(SERVO_MOTOR_PIN);\n","inc":"","def":"\nServo kamBotServo;\n","work":"kamBotServo.write({0});\n","loop":""}],
+		
+		/*["w", "play tone note %m.notes beat %d.beats","runTone", "C4","Whole",
+		{"encode":"{m0}{s1}","setup":"","inc":"","def":"","work":"tone(BUZZER_PIN,{0},{1});\ndelay({1});\n","loop":""}],*/
+		
+		["R", "battery level","getBattery",
+		{"encode":"{d0}","setup":"","inc":"","def":"","work":"kamibot.getBattery()","loop":""}],
+		
+		["R", "ultrasonic sensor","getUltraSonic",
+		{"encode":"","setup":"","inc":"","def":"","work":"kamibot.getUltraSonic()","loop":""}],
+		
+		["R", "infrared sensor %m.infrared","getIR","No.1",
+		{"encode":"{m0}","setup":"","inc":"","def":"","work":"kamibot.getIR({0})","loop":""}]
+		
+	],
+	"menus": {
+		"beats":["500","250","125","1000","2000","0"],
+		"servovalue":["0","45","90","135","180"],
+		"pwmvalue":["0","30","60","90","120","150","180","255"],
+		"digital":["HIGH","LOW"],
+		"notes":["C2","D2","E2","F2","G2","A2","B2","C3","D3","E3","F3","G3","A3","B3","C4","D4","E4","F4","G4","A4","B4","C5","D5","E5","F5","G5","A5","B5","C6","D6","E6","F6","G6","A6","B6","C7","D7","E7","F7","G7","A7","B7","C8","D8"],
+		"beats":["Whole","Half","Quater","Eighth","Zero"],
+		"infrared":["No.1","No.2","No.3","No.4","No.5"],
+		"colors":["Red","Pink","Blue","Sky Blue","Green","Yellow"],
+		"direction":["forward","backward"]
+	},
+	"values":{
+		"run":2,
+		"get":1,
+		"digital":30,
+		"analog":31,
+		"pwm":32,
+		"servo_pin":33,
+		"tone":34,
+		"timer":50,
+		"B0":31,"C1":33,"D1":37,"E1":41,"F1":44,"G1":49,"A1":55,"B1":62,
+			"C2":65,"D2":73,"E2":82,"F2":87,"G2":98,"A2":110,"B2":123,
+			"C3":131,"D3":147,"E3":165,"F3":175,"G3":196,"A3":220,"B3":247,
+			"C4":262,"D4":294,"E4":330,"F4":349,"G4":392,"A4":440,"B4":494,
+			"C5":523,"D5":587,"E5":659,"F5":698,"G5":784,"A5":880,"B5":988,
+			"C6":1047,"D6":1175,"E6":1319,"F6":1397,"G6":1568,"A6":1760,"B6":1976,
+			"C7":2093,"D7":2349,"E7":2637,"F7":2794,"G7":3136,"A7":3520,"B7":3951,
+			"C8":4186,"D8":4699,
+		"Whole":1000,"Half":500,"Quater":250,"Eighth":125,"Zero":0,
+		"No.1":16,"No.2":26,"No.3":5,"No.4":17,"No.5":4,
+		"Red":4,"Pink":5,"Blue":1,"Green":2,"Sky Blue":3,"Yellow":6,"White":7,"Black":0,
+		"forward":0,"backward":1
+	},
+	"translators":{
+	}
+}

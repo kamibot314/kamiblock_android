@@ -1,0 +1,2138 @@
+# The language name as it will appear in the language menu
+# Translation by: Alberto Casagrande
+msgid "Language-Name"
+msgstr "Italiano"
+
+msgid "%b and %b"
+msgstr "%b e %b"
+
+msgid "%b or %b"
+msgstr "%b o %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute di %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list contiene %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp di %n"
+
+msgid "%m.sensor sensor value"
+msgstr "valore del sensore %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "aggiungi %s a %m.list"
+
+msgid "answer"
+msgstr "risposta"
+
+msgid "ask %s and wait"
+msgstr "domanda %s e aspetta"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "sfondo #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "nome dello sfondo"
+
+msgid "broadcast %m.broadcast"
+msgstr "invia %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "invia %m.broadcast e aspetta"
+
+msgid "change %m.effect effect by %n"
+msgstr "cambia l’effetto %m.effect di %n"
+
+msgid "change %m.var by %n"
+msgstr "incrementa %m.var di %n"
+
+msgid "change pen color by %n"
+msgstr "cambia colore della penna di %n"
+
+msgid "change pen shade by %n"
+msgstr "incrementa l’ombra della penna di %n"
+
+msgid "change pen size by %n"
+msgstr "incrementa la dimensione della penna di %n"
+
+msgid "change size by %n"
+msgstr "incrementa la dimensione di %n"
+
+msgid "change tempo by %n"
+msgstr "incrementa il tempo di %n"
+
+msgid "change volume by %n"
+msgstr "incrementa volume di %n"
+
+msgid "change x by %n"
+msgstr "incrementa x di %n"
+
+msgid "change y by %n"
+msgstr "incrementa y di %n"
+
+msgid "clear"
+msgstr "cancella"
+
+msgid "clear graphic effects"
+msgstr "cancella gli effetti grafici"
+
+msgid "color %c is touching %c?"
+msgstr "il colore %c sta toccando %c?"
+
+msgid "Control"
+msgstr "Controli"
+
+msgid "costume #"
+msgstr "costume #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "duplica %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "%m.timeAndDate"
+
+msgid "Data"
+msgstr "Dati"
+
+msgid "days since 2000"
+msgstr "giorni dal 2000"
+
+msgid "define"
+msgstr "definisci"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "cancella %d.listDeleteItem di %m.list"
+
+msgid "delete this clone"
+msgstr "cancella questa copia"
+
+msgid "direction"
+msgstr "direzione"
+
+msgid "distance"
+msgstr "distanza"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "distanza da %m.spriteOrMouse"
+
+msgid "else"
+msgstr "altrimenti"
+
+msgid "Events"
+msgstr "Eventi"
+
+msgid "forever"
+msgstr "per sempre"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "scivola in %n secondi a x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "vai indietro di %n livelli"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "vai al %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "vai in primo piano"
+
+msgid "go to x:%n y:%n"
+msgstr "vai a x:%n y:%n"
+
+msgid "hide"
+msgstr "nascondi"
+
+msgid "hide list %m.list"
+msgstr "nascondi la lista %m.list"
+
+msgid "hide variable %m.var"
+msgstr "nascondi la variabile %m.var"
+
+msgid "if %b then"
+msgstr "se %b allora"
+
+msgid "if on edge, bounce"
+msgstr "se è sul bordo, rimbalza"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "inserisci %s in %m.list in posizione %d.listItem"
+
+msgid "item %d.listItem of %m.list"
+msgstr "elemento %d.listItem di %m.list"
+
+msgid "join %s %s"
+msgstr "concatena %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "il tasto %m.key è stato premuto?"
+
+msgid "length of %m.list"
+msgstr "lunghezza di %m.list"
+
+msgid "length of %s"
+msgstr "lunghezza di %s"
+
+msgid "letter %n of %s"
+msgstr "lettera %n di %s"
+
+msgid "Looks"
+msgstr "Aspetto"
+
+msgid "loudness"
+msgstr "volume"
+
+msgid "More Blocks"
+msgstr "Altri Blocchi"
+
+msgid "Motion"
+msgstr "Movimento"
+
+msgid "mouse down?"
+msgstr "mouse cliccato?"
+
+msgid "mouse x"
+msgstr "x del mouse"
+
+msgid "mouse y"
+msgstr "y del mouse"
+
+msgid "move %n steps"
+msgstr "fai %n passi"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "passa allo sfondo seguente"
+
+msgid "next costume"
+msgstr "passa al costume seguente"
+
+msgid "not %b"
+msgstr "non %b"
+
+msgid "Operators"
+msgstr "Operatori"
+
+msgid "Pen"
+msgstr "Penna"
+
+msgid "pen down"
+msgstr "penna giù"
+
+msgid "pen up"
+msgstr "penna su"
+
+msgid "pick random %n to %n"
+msgstr "scegli un numero tra %n e %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "suona il tamburo %d.drum per %n battute"
+
+# 83%
+msgid "play note %d.note for %n beats"
+msgstr "suona la nota %d.note per %n battute"
+
+msgid "play sound %m.sound"
+msgstr "emetti il suono %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "emetti il suono %m.sound fino alla fine"
+
+msgid "point in direction %d.direction"
+msgstr "punta in direzione %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "punta verso %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "ripeti %n volte"
+
+msgid "repeat until %b"
+msgstr "ripeti finché %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "sostituisci l'elemento %d.listItem di %m.list con %s"
+
+msgid "reset timer"
+msgstr "azzera il cronometro"
+
+msgid "rest for %n beats"
+msgstr "aspetta per %n battute"
+
+msgid "round %n"
+msgstr "arrotonda %n"
+
+msgid "say %s"
+msgstr "di' %s"
+
+msgid "say %s for %n secs"
+msgstr "di' %s per %n secondi"
+
+msgid "Sensing"
+msgstr "Sensori"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "il sensore %m.booleanSensor è attivato?"
+
+msgid "set %m.effect effect to %n"
+msgstr "imposta l'effetto %m.effect a %n"
+
+msgid "set %m.var to %s"
+msgstr "imposta %m.var a %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "usa lo strumento %d.instrument"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "imposta la direzione del motore a %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "porta la forza del motore a %n"
+
+msgid "set pen color to %c"
+msgstr "usa penna di colore %c"
+
+msgid "set pen color to %n"
+msgstr "usa penna di colore %n"
+
+msgid "set pen shade to %n"
+msgstr "imposta l'ombra della penna a %n"
+
+msgid "set pen size to %n"
+msgstr "usa penna di dimensione %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "usa stile di rotazione %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "porta dimensione al %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "porta il tempo a %n ppm"
+
+msgid "set video transparency to %n%"
+msgstr "porta trasparenza del video al %n%"
+
+msgid "set volume to %n%"
+msgstr "porta il volume al %n%"
+
+msgid "set x to %n"
+msgstr "vai dove x è %n"
+
+msgid "set y to %n"
+msgstr "vai dove y è %n"
+
+msgid "show"
+msgstr "mostra"
+
+msgid "show list %m.list"
+msgstr "mostra la lista %m.list"
+
+msgid "show variable %m.var"
+msgstr "mostra la variabile %m.var"
+
+msgid "size"
+msgstr "dimensione"
+
+msgid "Sound"
+msgstr "Suono"
+
+msgid "stamp"
+msgstr "timbra"
+
+msgid "stop %m.stop"
+msgstr "ferma %m.stop"
+
+msgid "stop all sounds"
+msgstr "ferma tutti i suoni"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "usa sfondo %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "usa sfondo %m.backdrop e aspetta"
+
+msgid "switch costume to %m.costume"
+msgstr "usa costume %m.costume"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pensa %s"
+
+msgid "think %s for %n secs"
+msgstr "pensa %s per %n secondi"
+
+msgid "tilt"
+msgstr "inclinazione"
+
+msgid "timer"
+msgstr "cronometro"
+
+msgid "touching %m.touching?"
+msgstr "sta toccando %m.touching?"
+
+msgid "touching color %c?"
+msgstr "sta toccando il colore %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "gira a @turnLeft di %n gradi"
+
+msgid "turn @turnRight %n degrees"
+msgstr "gira a @turnRight di %n gradi"
+
+msgid "turn motor off"
+msgstr "spegni il motore"
+
+msgid "turn motor on"
+msgstr "accendi il motore"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "accendi il motore per %n secondi"
+
+msgid "turn video %m.videoState"
+msgstr "imposta video su %m.videoState"
+
+# 88%
+msgid "username"
+msgstr "nome utente"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType su %m.stageOrThis"
+
+msgid "volume"
+msgstr "volume"
+
+msgid "wait %n secs"
+msgstr "aspetta %n secondi"
+
+msgid "wait until %b"
+msgstr "aspetta finché %b"
+
+# 75%
+msgid "when %m.booleanSensor"
+msgstr "quando %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "quando viene premuto %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "quando %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "quando si clicca su @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "quando lo sfondo diventa %m.backdrop"
+
+msgid "when distance < %n"
+msgstr "quando la distanza è minore di < %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "quando ricevo %m.broadcast"
+
+msgid "when I receive %d.broadcast"
+msgstr "quando ricevo %d.broadcast"
+
+msgid "when I start as a clone"
+msgstr "quando inizio come copia"
+
+msgid "when this sprite clicked"
+msgstr "quando si clicca su questa figura"
+
+msgid "when tilt = %n"
+msgstr "quando l'inclinazione è %n"
+
+msgid "x position"
+msgstr "posizione x"
+
+msgid "y position"
+msgstr "posizione y"
+
+#~ msgid "user name"
+#~ msgstr "nome utente"
+
+#~ msgid "user id"
+#~ msgstr "id dell'utente"
+
+#~ msgid "clone startup"
+#~ msgstr "crea una copia"
+
+#~ msgid "forever if %b"
+#~ msgstr "per sempre se %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "nascondi tutte le figure"
+
+#~ msgid "if %b"
+#~ msgstr "se %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "giorni di Scratch"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "direzione del motore %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motore spento"
+
+#~ msgid "motor on"
+#~ msgstr "motore acceso"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "accendi il motore per %n secondi"
+
+#~ msgid "motor power %n"
+#~ msgstr "forza del motore %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "suona la nota %d.note per %n battute"
+
+##################
+# User Interface #
+##################
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr "<b>Informazioni sulle variabili Cloud</b><br>&nbsp;<br>Al momento, solo i numeri sono supportati<br>le Chat non sono permesse e saranno rimosse<br>Per avere ulteriori informazioni, <a href=\"/help/faq/#clouddata\" target=\"_blank\">controlla le FAQ dei dati Cloud!</a>"
+
+msgid "A connected"
+msgstr "A collegato"
+
+msgid "a copy of the project file on your computer."
+msgstr "una copia del progetto sul tuo computer."
+
+msgid "abs"
+msgstr "abs"
+
+msgid "Account settings"
+msgstr "Configurazione dell'account"
+
+msgid "acos"
+msgstr "acos"
+
+msgid "Add boolean input:"
+msgstr "Aggiungi un input booleano:"
+
+msgid "add comment"
+msgstr "aggiungi un commento"
+
+msgid "Add label text:"
+msgstr "Aggiungi un'etichetta di testo:"
+
+msgid "Add number input:"
+msgstr "Aggiungi un numero in input:"
+
+msgid "Add string input:"
+msgstr "Aggiungi un testo in input:"
+
+msgid "All"
+msgstr "Tutti"
+
+msgid "all"
+msgstr "tutti"
+
+# Se refiere al estilo de rotación, que puede ser fijo, en dos direcciones o todas
+msgid "all around"
+msgstr "in tutte le direzioni"
+
+msgid "Animal"
+msgstr "Animale"
+
+msgid "Animals"
+msgstr "Animali"
+
+msgid "asin"
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "attività caricate"
+
+msgid "atan"
+msgstr "atan"
+
+msgid "B connected"
+msgstr "B collegato"
+
+msgid "Back a layer"
+msgstr "Sposta indietro uno strato"
+
+msgid "Backdrop"
+msgstr "Sfondo"
+
+msgid "backdrop"
+msgstr "sfondo"
+
+msgid "Backdrop Library"
+msgstr "Libreria degli sfondi"
+
+msgid "backdrop name"
+msgstr "nome dello sfondo"
+
+msgid "backdrop1"
+msgstr "sfondo1"
+
+msgid "backdrops"
+msgstr "sfondi"
+
+msgid "Backdrops"
+msgstr "Sfondi"
+
+msgid "Backpack"
+msgstr "Zaino"
+
+msgid "Bass"
+msgstr "Basso"
+
+msgid "Bass Drum"
+msgstr "Crancassa"
+
+msgid "Bassoon"
+msgstr "Fagotto"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr "Visto che hai un account Scratch nuovo, i cambiamenti ai dati in cloud non saranno salvati. Partecipa al sito e presto potrai farlo!"
+
+msgid "Bitmap"
+msgstr "Bitmap"
+
+msgid "Bitmap Mode"
+msgstr "Modo Bitmap"
+
+msgid "Block help"
+msgstr "Aiuto per i blocchi"
+
+msgid "Bongo"
+msgstr "Bongo"
+
+msgid "brightness"
+msgstr "luminosità"
+
+msgid "Bring to front"
+msgstr "Porta in primo piano"
+
+msgid "Broadcast"
+msgstr "Invia"
+
+msgid "Brush"
+msgstr "Pennello"
+
+msgid "button pressed"
+msgstr "bottone premuto"
+
+msgid "by"
+msgstr "per"
+
+msgid "bytes loaded"
+msgstr "byte caricati"
+
+msgid "C connected"
+msgstr "C collegato"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Camera"
+msgstr "Videocamera"
+
+msgid "can drag in player:"
+msgstr "può essere trascinato:"
+
+msgid "Cancel"
+msgstr "Cancella"
+
+msgid "Undelete"
+msgstr "Recupera cancellato"
+
+msgid "Cannot Delete"
+msgstr "Non posso Cancellare"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Non c'è una connessione di rete o il server è irraggiungibile."
+
+msgid "Castle"
+msgstr "Castello"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "ceiling"
+msgstr "ceiling"
+
+msgid "Cello"
+msgstr "Violoncello"
+
+msgid "Choir"
+msgstr "Coro"
+
+msgid "Choose backdrop from library"
+msgstr "Scegli lo sfondo dalla libreria"
+
+msgid "Choose costume from library"
+msgstr "Scegli il costume dalla libreria"
+
+msgid "Choose sound from library"
+msgstr "Scegli il suono dalla libreria"
+
+msgid "Choose sprite from library"
+msgstr "Scegli la figura dalla libreria"
+
+msgid "Circle"
+msgstr "Cerchio"
+
+msgid "City"
+msgstr "Città"
+
+msgid "Clarinet"
+msgstr "Clarinetto"
+
+msgid "Claves"
+msgstr "Clave"
+
+msgid "cleanup"
+msgstr "pulisci"
+
+msgid "Clear"
+msgstr "Pulisci"
+
+msgid "clear senders/receivers"
+msgstr "pulisci trasmettitori/ricevitori"
+
+msgid "Click “Save now” to try again or “Download” to save"
+msgstr "Clicca “Salva ora” per provare nuovamente o “Scarica” per salvare"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Closed Hi-Hat"
+msgstr "Hi-Hat Chiuso"
+
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Cloud data"
+msgstr "Dati in Cloud"
+
+msgid "color"
+msgstr "colore"
+
+msgid "Color a shape"
+msgstr "Colora una forma"
+
+msgid "Conga"
+msgstr "Conga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "In connessione al server Cloud..."
+
+msgid "Convert to bitmap"
+msgstr "Converti a bitmap"
+
+msgid "Convert to vector"
+msgstr "Converti in formato vettoriale"
+
+msgid "Converting mp3..."
+msgstr "Conversione a mp3 in corso..."
+
+msgid "copy"
+msgstr "copia"
+
+msgid "Copying..."
+msgstr "In copia..."
+
+msgid "cos"
+msgstr "cos"
+
+msgid "Costume"
+msgstr "Costume"
+
+msgid "costume #"
+msgstr "costume #"
+
+msgid "Costume Library"
+msgstr "Libreria dei costumi"
+
+msgid "costume name"
+msgstr "nome del costume"
+
+msgid "costume1"
+msgstr "costume1"
+
+msgid "costume2"
+msgstr "costume2"
+
+msgid "Costumes"
+msgstr "Costumi"
+
+msgid "Costumes > 1"
+msgstr "Costumi > 1"
+
+msgid "Costumes:"
+msgstr "Costumi:"
+
+msgid "Cowbell"
+msgstr "Campanaccio"
+
+msgid "Crash Cymbal"
+msgstr "Piatto Crash"
+
+msgid "Creating..."
+msgstr "In creazione..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Al momento, solo i numeri possono essere salvati nelle variabili in Cloud."
+
+msgid "cut"
+msgstr "taglia"
+
+msgid "D connected"
+msgstr "D collegato"
+
+msgid "date"
+msgstr "data"
+
+msgid "day of week"
+msgstr "giorno della settimana"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "delete"
+msgstr "cancella"
+
+msgid "delete variable"
+msgstr "cancella la variabile"
+
+msgid "direction"
+msgstr "direzione"
+
+msgid "direction:"
+msgstr "direzione:"
+
+msgid "don't rotate"
+msgstr "non ruotare"
+
+msgid "down"
+msgstr "giù"
+
+msgid "down arrow"
+msgstr "freccia in giù"
+
+msgid "Download"
+msgstr "Scarica"
+
+msgid "Download to your computer"
+msgstr "Scarica nel tuo computer"
+
+msgid "duplicate"
+msgstr "duplica"
+
+msgid "Duplicate"
+msgstr "Duplica"
+
+msgid "e ^"
+msgstr "e ^"
+
+msgid "edge"
+msgstr "bordo"
+
+msgid "edit"
+msgstr "modifica"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Edit Block"
+msgstr "Modifica Blocco"
+
+msgid "Effects"
+msgstr "Effetti"
+
+msgid "Electric Guitar"
+msgstr "Chitarra Elettrica"
+
+msgid "Electric Piano"
+msgstr "Piano Elettrico"
+
+msgid "Electronic"
+msgstr "Elettronico"
+
+msgid "Ellipse"
+msgstr "Ellisse"
+
+msgid "Erase"
+msgstr "Cancella"
+
+# 92%
+#, fuzzy
+msgid "Eraser width"
+msgstr "Larghezza della gomma"
+
+msgid "Error!"
+msgstr "Errore!"
+
+msgid "export"
+msgstr "esporta"
+
+msgid "fade in"
+msgstr "dissolvi in entrata"
+
+msgid "fade out"
+msgstr "dissolvi in uscita"
+
+msgid "Fantasy"
+msgstr "Fantasy"
+
+msgid "Features"
+msgstr "Caratteristiche"
+
+msgid "File"
+msgstr "File"
+
+msgid "Examples"
+msgstr "Esempi"
+
+msgid "Fill with color"
+msgstr "Riempi con il colore"
+
+msgid "fisheye"
+msgstr "fisheye"
+
+msgid "Flip left-right"
+msgstr "Capovolgi sinistra-destra"
+
+msgid "Flip up-down"
+msgstr "Capovolgi su-giù"
+
+msgid "floor"
+msgstr "floor"
+
+msgid "Flute"
+msgstr "Flauto"
+
+msgid "Flying"
+msgstr "In volo"
+
+msgid "Font:"
+msgstr "Font:"
+
+msgid "For all sprites"
+msgstr "Per tutte le figure"
+
+msgid "For this sprite only"
+msgstr "Solo per questa figura"
+
+msgid "Forward a layer"
+msgstr "Sposta in avanti uno strato"
+
+msgid "ghost"
+msgstr "dissolvenza"
+
+msgid "Go to My Stuff"
+msgstr "Vai a Le Mie Cose"
+
+msgid "Group"
+msgstr "Gruppo"
+
+msgid "Grow"
+msgstr "Ingrandisci"
+
+msgid "Guiro"
+msgstr "Guiro"
+
+msgid "Guitar"
+msgstr "Chitarra"
+
+msgid "Hand Clap"
+msgstr "Applauso"
+
+msgid "hide"
+msgstr "nascondi"
+
+msgid "High C"
+msgstr "C alto"
+
+msgid "hour"
+msgstr "ora"
+
+msgid "Human"
+msgstr "Umano"
+
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "importa"
+
+msgid "Import"
+msgstr "Importa"
+
+msgid "Importing sound..."
+msgstr "Sto importando il suono..."
+
+msgid "Indoors"
+msgstr "Interni"
+
+msgid "Installing..."
+msgstr "Installazione..."
+
+msgid "Instruments"
+msgstr "Strumenti"
+
+msgid "large readout"
+msgstr "schermo grande"
+
+msgid "last"
+msgstr "ultimo"
+
+msgid "left"
+msgstr "sinistra"
+
+msgid "left arrow"
+msgstr "freccia a sinistra"
+
+msgid "left-right"
+msgstr "sinistra-destra"
+
+msgid "length"
+msgstr "lunghezza"
+
+msgid "empty"
+msgstr "vuota"
+
+msgid "(empty)"
+msgstr "(vuota)"
+
+msgid "Library"
+msgstr "Libreria"
+
+msgid "light"
+msgstr "luce"
+
+msgid "limit reached"
+msgstr "límite raggiunto"
+
+msgid "Line"
+msgstr "Línea"
+
+# 90%
+#, fuzzy
+msgid "Line width"
+msgstr "Larghezza della linea:"
+
+msgid "list"
+msgstr "lista"
+
+msgid "List name"
+msgstr "Nome della lista"
+
+msgid "ln"
+msgstr "ln"
+
+msgid "Loading project..."
+msgstr "Progetto in caricamento..."
+
+msgid "log"
+msgstr "log"
+
+msgid "louder"
+msgstr "più forte"
+
+msgid "Low C"
+msgstr "C basso"
+
+msgid "Make a Block"
+msgstr "Crea un Blocco"
+
+msgid "Make a List"
+msgstr "Crea una Lista"
+
+msgid "Make a Variable"
+msgstr "Crea una Variabile"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Max"
+msgstr "Massimo"
+
+msgid "meow"
+msgstr "miao"
+
+msgid "Message Name"
+msgstr "Nome del messaggio"
+
+msgid "message1"
+msgstr "messaggio1"
+
+msgid "Microphone Volume:"
+msgstr "Volume del Microfono"
+
+msgid "Middle C"
+msgstr "C mezzo"
+
+msgid "Min"
+msgstr "Mínimo"
+
+msgid "minute"
+msgstr "minuto"
+
+msgid "month"
+msgstr "mese"
+
+msgid "mosaic"
+msgstr "mosaico"
+
+msgid "motion"
+msgstr "movimento"
+
+msgid "mouse-pointer"
+msgstr "puntatore del mouse"
+
+msgid "Multiple"
+msgstr "Multiplo"
+
+msgid "Music and Dance"
+msgstr "Musica e Ballo"
+
+msgid "Music Box"
+msgstr "Scatola Musicale"
+
+msgid "Music Loops"
+msgstr "Loop Musicali"
+
+msgid "My Stuff"
+msgstr "Le Mie Cose"
+
+msgid "myself"
+msgstr "questo oggetto"
+
+msgid "Nature"
+msgstr "Natura"
+
+msgid "New"
+msgstr "Nuovo"
+
+msgid "New backdrop from camera"
+msgstr "Nuovo sfondo dalla videocamera"
+
+msgid "New backdrop:"
+msgstr "Nuovo sfondo:"
+
+msgid "New costume from camera"
+msgstr "Nuovo costume dalla videocamera"
+
+msgid "New costume:"
+msgstr "Nuovo costume:"
+
+msgid "New List"
+msgstr "Nuova Lista"
+
+msgid "new message..."
+msgstr "nuovo messaggio..."
+
+msgid "New name"
+msgstr "Nuovo nome"
+
+msgid "New sound:"
+msgstr "Nuovo suono:"
+
+msgid "New sprite from camera"
+msgstr "Nuova figura dalla videocamera"
+
+msgid "New sprite:"
+msgstr "Nuova figura:"
+
+msgid "New Variable"
+msgstr "Nuova Variabile"
+
+msgid "No motion blocks"
+msgstr "Nessun blocco di movimento"
+
+msgid "normal readout"
+msgstr "schermo normale"
+
+msgid "Not saved; network or server problem."
+msgstr "Non salvato; c'è un problema di rete o del server."
+
+msgid "Not saved; project did not load."
+msgstr "Non salvato; il progetto non è stato caricato."
+
+msgid "of"
+msgstr "di"
+
+msgid "off"
+msgstr "spento"
+
+msgid "Offline Editor"
+msgstr "Editor Offline"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "on"
+msgstr "acceso"
+
+msgid "on-flipped"
+msgstr "acceso e capovolto"
+
+msgid "Open Cuica"
+msgstr "Apri Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Apri Hi-Hat"
+
+msgid "Options"
+msgstr "Opzioni"
+
+msgid "Organ"
+msgstr "Organo"
+
+msgid "Other"
+msgstr "Altri"
+
+msgid "other scripts in sprite"
+msgstr "altri programmi della figura"
+
+msgid "Outdoors"
+msgstr "Esterni"
+
+msgid "Paint new backdrop"
+msgstr "Disegna un nuovo sfondo"
+
+msgid "Paint new costume"
+msgstr "Disegna un nuovo costume"
+
+msgid "Paint new sprite"
+msgstr "Disegna una nuova figura"
+
+msgid "paste"
+msgstr "incolla"
+
+msgid "Pencil"
+msgstr "Matita"
+
+msgid "People"
+msgstr "Persone"
+
+msgid "Percussion"
+msgstr "Percussione"
+
+msgid "photo1"
+msgstr "foto1"
+
+msgid "Piano"
+msgstr "Piano"
+
+msgid "Pick up color"
+msgstr "Raccogliere colore"
+
+msgid "pixelate"
+msgstr "pixelizare"
+
+msgid "Pizzicato"
+msgstr "Pizzicato"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Profile"
+msgstr "Profilo"
+
+msgid "Project did not load."
+msgstr "Il progetto non è stato caricato."
+
+msgid "Project not saved!"
+msgstr "Il progetto non è stato salvato!"
+
+msgid "random"
+msgstr "in modo casuale"
+
+msgid "Record"
+msgstr "Registra"
+
+msgid "Record new sound"
+msgstr "Registra un nuovo suono"
+
+msgid "recording1"
+msgstr "registrazione1"
+
+msgid "recording2"
+msgstr "registrazione2"
+
+msgid "recording3"
+msgstr "registrazione3"
+
+msgid "recording4"
+msgstr "registrazione4"
+
+msgid "recording5"
+msgstr "registrazione5"
+
+msgid "Rectangle"
+msgstr "Rettangolo"
+
+msgid "Redo"
+msgstr "Rifai"
+
+msgid "redo"
+msgstr "rifai"
+
+msgid "Remix"
+msgstr "Remix"
+
+msgid "Remixing..."
+msgstr "Sto remixando..."
+
+msgid "Rename"
+msgstr "Rinomina"
+
+msgid "rename variable"
+msgstr "rinomina la variabile"
+
+msgid "requires sign in"
+msgstr "richiede di accedere"
+
+msgid "Reshape"
+msgstr "Rimodella"
+
+msgid "resistance-A"
+msgstr "resistenza-A"
+
+msgid "resistance-B"
+msgstr "resistenza-B"
+
+msgid "resistance-C"
+msgstr "resistenza-C"
+
+msgid "resistance-D"
+msgstr "resistenza-D"
+
+msgid "reverse"
+msgstr "rovesciato"
+
+msgid "Revert"
+msgstr "Rovescia"
+
+msgid "Reverting..."
+msgstr "Sto rovesciando..."
+
+msgid "right"
+msgstr "destra"
+
+msgid "right arrow"
+msgstr "freccia a destra"
+
+msgid "rotation style:"
+msgstr "stile di rotazione:"
+
+# lit. "run instantly"
+msgid "Run without screen refresh"
+msgstr "Esegui senza aggiornare lo schermo"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Don't save"
+msgstr "Non salvare"
+
+msgid "Save project?"
+msgstr "Salvare il progetto?"
+
+msgid "Save as a copy"
+msgstr "Salva come copia"
+
+msgid "Save now"
+msgstr "Salva ora"
+
+msgid "save to local file"
+msgstr "salva in un file locale"
+
+msgid "Saved"
+msgstr "Salvato"
+
+msgid "Saving changes..."
+msgstr "Sto salvando i cambiamenti..."
+
+msgid "Saving..."
+msgstr "Sto salvando..."
+
+msgid "Saxophone"
+msgstr "Sassofono"
+
+msgid "Script"
+msgstr "Programma"
+
+msgid "Scripts"
+msgstr "Programmi"
+
+msgid "Scripts:"
+msgstr "Programmi:"
+
+msgid "second"
+msgstr "secondo"
+
+msgid "See project page"
+msgstr "Guarda la pagina del progetto"
+
+msgid "Select"
+msgstr "Seleziona"
+
+msgid "select all"
+msgstr "seleziona tutto"
+
+msgid "Select and duplicate"
+msgstr "Seleziona e duplica"
+
+msgid "Send to back"
+msgstr "Manda in fondo"
+
+msgid "Set costume center"
+msgstr "Imposta il centro del costume"
+
+msgid "Set Costume Center"
+msgstr "Imposta il Centro del Costume"
+
+msgid "set slider min and max"
+msgstr "Imposta il minimo e il massimo"
+
+msgid "Share"
+msgstr "Condividi"
+
+msgid "shared"
+msgstr "condiviso"
+
+#, fuzzy
+msgid "Shift:"
+msgstr "Spostamento:"
+
+msgid "show"
+msgstr "mostra"
+
+msgid "show receivers"
+msgstr "mostra i ricevitori"
+
+msgid "show senders"
+msgstr "mostra le trasmittenti"
+
+msgid "show:"
+msgstr "mostra:"
+
+msgid "Shrink"
+msgstr "Restringi"
+
+msgid "Side Stick"
+msgstr "Barra Laterale"
+
+msgid "Sign in"
+msgstr "Accedi"
+
+msgid "Sign in to save"
+msgstr "Accedi per salvare"
+
+msgid "Sign out"
+msgstr "Scollegati"
+
+msgid "silence"
+msgstr "silezio"
+
+msgid "sin"
+msgstr "sin"
+
+msgid "size"
+msgstr "dimensione"
+
+msgid "slider"
+msgstr "cursore"
+
+msgid "Slider Range"
+msgstr "Gamma del Cursore"
+
+msgid "Small stage layout"
+msgstr "Disposizione senza palco"
+
+msgid "Smooth"
+msgstr "Leviga"
+
+msgid "Snare Drum"
+msgstr "Tamburo Rullante"
+
+msgid "softer"
+msgstr "più lieve"
+
+msgid "sound"
+msgstr "suono"
+
+msgid "Sound"
+msgstr "Suono"
+
+msgid "Sound Library"
+msgstr "Libreria dei Suoni"
+
+msgid "Sounds"
+msgstr "Suono"
+
+msgid "space"
+msgstr "spazio"
+
+msgid "Space"
+msgstr "Spazio"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Sprite"
+msgstr "Figure"
+
+msgid "Sprite Library"
+msgstr "Libreria delle Figure"
+
+msgid "Sprite1"
+msgstr "Figura1"
+
+msgid "Sprites"
+msgstr "Figure"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Square"
+msgstr "Quadrato"
+
+msgid "Stage"
+msgstr "Palco"
+
+msgid "Stage selected:"
+msgstr "Palco selezionato:"
+
+msgid "Steel Drum"
+msgstr "Tamburo Metallico"
+
+msgid "stored on server"
+msgstr "salvato sul server"
+
+msgid "Synth Lead"
+msgstr "Sintetizzatore Principale"
+
+msgid "Synth Pad"
+msgstr "Sintetizzatore di Sfondo"
+
+msgid "Tambourine"
+msgstr "Tamburello"
+
+msgid "tan"
+msgstr "tan"
+
+msgid "Text"
+msgstr "Testo"
+
+msgid "that way"
+msgstr "in quel senso"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Cose"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr "Questo progetto può rilevare chi lo sta usando attraverso il blocco “nome utente”. Per nascondere la tua identità, scollegati prima di usarlo."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr "Questo progetto usa i dati in Cloud - questo è possibile solo per gli utenti collegati."
+
+msgid "this script"
+msgstr "questo progamma"
+
+msgid "this sprite"
+msgstr "questa figura"
+
+msgid "this way"
+msgstr "in questo senso"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "Scarto tutti i cambiamenti dall'apertura del progetto?"
+
+msgid "timer"
+msgstr "cronometro"
+
+msgid "Tips"
+msgstr "Suggerimenti"
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr "Prima di cancellare la definizione di un blocco, rimuovi tutti i suoi utilizzi."
+
+msgid "Transportation"
+msgstr "Trasporti"
+
+msgid "Triangle"
+msgstr "Triangolo"
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "Turbo mode"
+msgstr "Modalità Turbo"
+
+msgid "Turbo Mode"
+msgstr "Modalità Turbo"
+
+msgid "Upload to KamiBot"
+msgstr "Invialo al KamiBot"
+
+msgid "Type"
+msgstr "Tipo"
+
+# lit. "recover deleted"
+msgid "recupera quanto cancellato"
+msgstr "Recuperar borrado"
+
+msgid "Underwater"
+msgstr "Subacqueo"
+
+msgid "Undo"
+msgstr "Annulla"
+
+msgid "undo"
+msgstr "annulla"
+
+msgid "Undo Revert"
+msgstr "Annulla Ripristina"
+
+msgid "Ungroup"
+msgstr "Separa"
+
+msgid "unshared"
+msgstr "annulla condivisione"
+
+msgid "up"
+msgstr "su"
+
+msgid "up arrow"
+msgstr "freccia in su"
+
+msgid "Upload backdrop from file"
+msgstr "Carica sfondo da file"
+
+msgid "Upload costume from file"
+msgstr "Carica costume da file"
+
+msgid "Upload from your computer"
+msgstr "Carica dal tuo computer"
+
+msgid "Upload sound from file"
+msgstr "Carica suono da file"
+
+msgid "Upload sprite from file"
+msgstr "Carica figura da file"
+
+msgid "Uploading image..."
+msgstr "Immagine in caricamento..."
+
+msgid "Uploading sound..."
+msgstr "Suono in caricamento..."
+
+msgid "Uploading sprite..."
+msgstr "Figura in caricamento..."
+
+msgid "variable"
+msgstr "variabile"
+
+msgid "Variable name"
+msgstr "Nome della Variabile"
+
+msgid "Vector"
+msgstr "Vettore"
+
+msgid "Vector Mode"
+msgstr "Modalità Vettoriale"
+
+msgid "Vibraphone"
+msgstr "Vibrafono"
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "video motion"
+msgstr "movimento del video"
+
+msgid "Video on:"
+msgstr "Video acceso:"
+
+# lit. "singing"
+msgid "Vocals"
+msgstr "Canto"
+
+msgid "volume"
+msgstr "volume"
+
+msgid "Walking"
+msgstr "Camminando"
+
+msgid "Want to save? Click remix"
+msgstr "Vuoi salvare? Clicca su remix"
+
+msgid "Which column do you want to import"
+msgstr "Quale colonna vuoi importare"
+
+msgid "whirl"
+msgstr "vortice"
+
+msgid "Wood Block"
+msgstr "Blocco di Legno"
+
+msgid "Wooden Flute"
+msgstr "Flauto di Legno"
+
+msgid "x position"
+msgstr "posizione x"
+
+msgid "y position"
+msgstr "posizione y"
+
+msgid "year"
+msgstr "anno"
+
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr "Non puoi modificare i dati in Cloud nel progetto di qualcun altro.<br>Tutti i cambiamenti apportati saranno temporanei e non persistenti."
+
+msgid "Eraser width:"
+msgstr "Larghezza della gomma:"
+
+msgid "Line width:"
+msgstr "Larghezza della linea:"
+
+# UI
+
+msgid "cleanup"
+msgstr "pulisci"
+
+msgid "Rectangle (Shift: Square)"
+msgstr ""Rettangolo (Shift: Quadrato)"
+
+msgid "Ellipse (Shift: Circle)"
+msgstr "Ellisse (Shift: Cerchio)"
+
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Duplicato (Shift: Multiplo)"
+
+msgid "info"
+msgstr "infomazioni"
+
+msgid "set block size"
+msgstr "Imposta la dimensione dei blocchi"
+
+msgid "Data&Blocks"
+msgstr "Dati e Blocchi"
+
+msgid "Connect"
+msgstr "Connettiti"
+
+msgid "Arduino mode"
+msgstr "Modalità Arduino"
+
+msgid "Load Project"
+msgstr "Carica Progetto"
+
+msgid "Replace contents of the current project?"
+msgstr "Sovrascrivi i contenuti del progetto corrente?"
+
+msgid "Save Project"
+msgstr "Salva il Progetto"
+
+msgid "Serial Port"
+msgstr "Porta Seriale"
+
+msgid "Disconnect"
+msgstr "Scollega"
+
+msgid "Disscover"
+msgstr "Scopri"
+
+msgid "Install KamiBot Program"
+msgstr "Installa il Programma KamiBot"
+
+msgid "Program"
+msgstr "Programma"
+
+msgid "Program update required "
+msgstr "È richiesto un aggiornamento del programma "
+
+msgid "Program not detected."
+msgstr "Il programma non è stato individuato."
+
+msgid "Latest version "
+msgstr "Ultima versione "
+
+msgid "Program Upload"
+msgstr "Programma Inviato"
+
+msgid "Upload Finished"
+msgstr "Invio Finito"
+
+msgid "Upload Faliure Code: "
+msgstr "Codice di Errore dell'Invio: "
+
+msgid "Check current board selected"
+msgstr "Controlla la scheda selezionata"
+
+msgid "Upload"
+msgstr "Invia"
+
+msgid "Uploading"
+msgstr "In invio"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Connected"
+msgstr "Connesso"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "Please connect the serial port."
+msgstr "Collega la porta seriale."
+
+msgid "View Source"
+msgstr "Vedi il Sorgente"
+
+msgid "Install KamiBot Driver"
+msgstr "Installa il driver di KamiBot"
+
+msgid "Upload Firmware"
+msgstr "Invia il Firmware"
+
+msgid "Boards"
+msgstr "Schede"
+
+msgid "Mode"
+msgstr "Modalità"
+
+msgid "Extensions"
+msgstr "Estensioni"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Info"
+msgstr "Informazioni"
+
+msgid "Robots"
+msgstr "Robot"
+
+msgid "Forum"
+msgstr "Forum"
+
+msgid "Report a Bug"
+msgstr "Segnala un Bug"
+
+msgid "License"
+msgstr "Licenza"
+
+msgid "Acknowledgements"
+msgstr "Ringraziamenti"
+
+msgid "save picture of stage"
+msgstr "salva una figura del palco"
+
+msgid "when %m.key key released"
+msgstr "quando %m.key viene rilasciato"
+
+msgid "About Kamibot"
+msgstr "Riguardo a Kamibot"
+
+msgid "Back"
+msgstr "Indietro"
+
+msgid "change to Arduino mode"
+msgstr "attiva modalità Arduino"
+
+msgid "Edit with Arduino Editor"
+msgstr "Modifica con l'Editor di Arduino"
+
+# Arduino Extention
+
+msgid "Arduino Program"
+msgstr "Programma di Arduino"
+
+msgid "read digital pin %n"
+msgstr "leggi il pin digitale %n"
+
+msgid "read analog pin (A)%n"
+msgstr "leggi il pin analogico (A)%n"
+
+msgid "read pulse pin %n timeout %n"
+msgstr "leggi il pin di impulso %n timeout %n"
+
+msgid "set digital pin %n output as %d.digital"
+msgstr "imposta il pin digitale %n a %d.digital"
+
+msgid "set pwm pin %n output as %d.pwmvalue"
+msgstr "imposta il pin PWM %n a %d.pwmvalue"
+
+msgid "play tone pin %n on note %d.notes beat %d.beats"
+msgstr "suona il pin di tono %n sulla nota %d.notes battuta %d.beats"
+
+msgid "set servo pin %n angle as %d.servovalue"
+msgstr "imposta il servo pin %n a %d.servovalue"
+
+msgid "read ultrasonic sensor trig pin %n echo pin %n"
+msgstr "leggi il trig pin del sensore ultrasonico %n echo pin %n"
+ 
+msgid "timer"
+msgstr "cronometro"
+
+msgid "reset timer"
+msgstr "azzera il cronometro"
+
+msgid "infrared sensor %n"
+msgstr "sensore a infrarossi %n"
+
+msgid "infrared sensor No.1"
+msgstr "sensore a infrarossi numero 1"
+
+msgid "infrared sensor No.2"
+msgstr "sensore a infrarossi numero 2"
+
+msgid "infrared sensor No.3"
+msgstr "sensore a infrarossi numero 3"
+
+msgid "infrared sensor No.4"
+msgstr "sensore a infrarossi numero 4"
+
+msgid "infrared sensor No.5"
+msgstr "sensore a infrarossi numero 5"
+
+# Kamibot Extention
+
+msgid "Kamibot Program"
+msgstr "Programma Kamibot"
+
+msgid "turn left"
+msgstr "gira a sinistra"
+
+msgid "turn right"
+msgstr "gira a destra"
+
+msgid "turn back"
+msgstr "voltati"
+
+msgid "add comment here..."
+msgstr "aggiungi un commento..."
+
+msgid "Hello!"
+msgstr "Ciao!"
+
+msgid "Hmm..."
+msgstr "Mumble..."
+
+msgid "thing"
+msgstr "elemento"
+
+msgid "What's your name?"
+msgstr "Come ti chiami?"
+
+msgid "hello"
+msgstr "ciao"
+
+msgid "world"
+msgstr "mondo"
+
+msgid "move forward %n block"
+msgstr "avanza di %n blocchi"
+
+msgid "move forward speed %d.pwmvalue"
+msgstr "avanza con velocità %d.pwmvalue"
+
+msgid "move forward speed Right : %d.pwmvalue Left : %d.pwmvalue"
+msgstr "avanza con velocità Destra: %d.pwmvalue Sinistra: %d.pwmvalue"
+
+msgid "move left speed %d.pwmvalue"
+msgstr "curva a sinistra con velocità:  %d.pwmvalue"
+
+msgid "move right speed %d.pwmvalue"
+msgstr "curva a destra con velocità: %d.pwmvalue"
+
+msgid "move backward speed %d.pwmvalue"
+msgstr "indietreggia con velocità : %d.pwmvalue"
+
+msgid "move backward speed Right : %d.pwmvalue Left : %d.pwmvalue"
+msgstr "indietreggia con velocità Destra: %d.pwmvalue Sinistra: %d.pwmvalue"
+
+msgid "left motor %m.direction speed %d.pwmvalue"
+msgstr "motore sinistro %m.direction velocità %d.pwmvalue"
+
+msgid "right motor %m.direction speed %d.pwmvalue"
+msgstr "motore destro %m.direction velocità %d.pwmvalue"
+
+msgid "stop"
+msgstr "ferma"
+
+msgid "set KamiBot color to %m.colors"
+msgstr "imposta il colore di KamiBot a %m.colors"
+
+msgid "set servo motor to %d.servovalue °"
+msgstr "imposta il servomotore a %d.servovalue °"
+
+msgid "play tone note %m.notes beat %d.beats"
+msgstr "suona la nota %m.notes battuta %d.beats"
+
+msgid "battery level"
+msgstr "livello della batteria"
+
+msgid "ultrasonic sensor"
+msgstr "sensore ultrasonico"
+
+msgid "infrared sensor %m.infrared"
+msgstr "sensore infrarossi %m.infrared"
+
+msgid "Whole"
+msgstr "Tutto"
+
+msgid "Half"
+msgstr "Metà"
+
+msgid "Quater"
+msgstr "Un quarto"
+
+msgid "Eighth"
+msgstr "Un ottavo"
+
+msgid "Zero"
+msgstr "Zero"
+
+msgid "No.1"
+msgstr "numero 1"
+
+msgid "No.2"
+msgstr "numero 2"
+
+msgid "No.3"
+msgstr "numero 3"
+
+msgid "No.4"
+msgstr "numero 4"
+
+msgid "No.5"
+msgstr "numero 5"
+
+msgid "Red"
+msgstr "Rosso"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "Blue"
+msgstr "Blu"
+
+msgid "Sky Blue"
+msgstr "Blu Cielo"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Yellow"
+msgstr "Giallo"
+
+msgid "forward"
+msgstr "avanti"
+
+msgid "backward"
+msgstr "indietro"
+
+
+# Vendor
+
+msgid "Arduino Compatible"
+msgstr "Compatibile Arduino"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Arduino"
+msgstr "Arduino"
+
+# etc
+
+#~msgid "Select File"
+#~msgstr "Seleziona il File"
+
+#~msgid "File not found"
+#~msgstr "File non trovato"
+
+#~msgid "Cannot found sb2 files at 'KamiBlock' folder.\nplease put your project file(s) at 'kamibot_scratch' folder"
+#~msgstr "Non trovo i file sb2 nella directory 'KamiBlock'.\nmetti i file del tuo progetto nella directory 'kamibot_scratch'"
+
+msgid "saved"
+msgstr "salvato"
+
+msgid "saved at "
+msgstr "salvato su "
+
+msgid "save failure"
+msgstr "errore di salvataggio"
+
+msgid "sorry, save failure"
+msgstr "mi spiace, errore di salvataggio"
+
+msgid "Info"
+msgstr "Informazioni"
+
+msgid "No response from KamiBot"
+msgstr "Nessuna risposta da KamiBot"
+
+msgid "No response from KamiBot. Please ensure that your KamiBot is turned on."
+msgstr "Nessuna risposta da KamiBot. Controlla che il tuo KamiBot sia acceso."
+
+msgid "KamiBot Unable to detect any line"
+msgstr "KamiBot non riesce a individuare nessuna linea"
+
+msgid "KamiBot Unable to detect any line. Please place your KamiBot on the line."
+msgstr "KamiBot non riesce a individuare nessuna linea. Metti il tuo KamiBot sulla linea."
+
+msgid "please back again to exit"
+msgstr "per uscire, premi ancora indietro"
+
+msgid "Cannot find KamiBot"
+msgstr "Non trovo KamiBot"
+
+msgid "Cannot find KamiBot. Make sure that your KamiBot turn on."
+msgstr "Non trovo KamiBot. Assicurati che sia acceso."
+
+msgid "Lost connection to KamiBot"
+msgstr "Ho perso la connessione con KamiBot"
+
+msgid "Lost connection to KamiBot. Please ensure that your KamiBot is turned on."
+msgstr "Ho perso la connessione con KamiBot. Assicurati che il tuo KamiBot sia acceso."
+
+msgid "Monitor"
+msgstr "Spettacolo"
+
+msgid "Recording..."
+msgstr "Record di..."
+
+msgid "Playing..."
+msgstr "Giocare..."
+
+msgid "Saving..."
+msgstr "Salva file..."
+
+msgid "Ready for recording"
+msgstr "Pronto per la registrazione"
+
+msgid "sec"
+msgstr "sec"

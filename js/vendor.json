@@ -1,0 +1,5 @@
+[
+{"name":"Arduino Compatible","vendor":null,"device_type":"FTDIBUS"},
+{"name":"Bluetooth","vendor":null,"device_type":"BTHENUM"},
+{"name":"Arduino","vendor":"Arduino LLC (www.arduino.cc)","device_type":null}
+]
