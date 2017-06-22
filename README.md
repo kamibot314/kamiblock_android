@@ -6,5 +6,5 @@ You can get more information or [download website](http://kamibot.com/lib)
 
 # Installer
 
-[Download website](http://kamibot.com/lib/kamiblock-app/)
+[Download website](https://play.google.com/store/apps/details?id=air.com.kamibot.KamiBlock)
 
